@@ -1,3 +1,11 @@
 body {
-    background: red;
+    background: sandybrown;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    padding: 25px;
 }
